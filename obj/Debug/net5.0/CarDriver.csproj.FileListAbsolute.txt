@@ -1,0 +1,16 @@
+C:\Users\curtw\workspace\csharp\CarDriver\bin\Debug\net5.0\CarDriver.exe
+C:\Users\curtw\workspace\csharp\CarDriver\bin\Debug\net5.0\CarDriver.deps.json
+C:\Users\curtw\workspace\csharp\CarDriver\bin\Debug\net5.0\CarDriver.runtimeconfig.json
+C:\Users\curtw\workspace\csharp\CarDriver\bin\Debug\net5.0\CarDriver.runtimeconfig.dev.json
+C:\Users\curtw\workspace\csharp\CarDriver\bin\Debug\net5.0\CarDriver.dll
+C:\Users\curtw\workspace\csharp\CarDriver\bin\Debug\net5.0\ref\CarDriver.dll
+C:\Users\curtw\workspace\csharp\CarDriver\bin\Debug\net5.0\CarDriver.pdb
+C:\Users\curtw\workspace\csharp\CarDriver\obj\Debug\net5.0\CarDriver.csproj.AssemblyReference.cache
+C:\Users\curtw\workspace\csharp\CarDriver\obj\Debug\net5.0\CarDriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\curtw\workspace\csharp\CarDriver\obj\Debug\net5.0\CarDriver.AssemblyInfoInputs.cache
+C:\Users\curtw\workspace\csharp\CarDriver\obj\Debug\net5.0\CarDriver.AssemblyInfo.cs
+C:\Users\curtw\workspace\csharp\CarDriver\obj\Debug\net5.0\CarDriver.csproj.CoreCompileInputs.cache
+C:\Users\curtw\workspace\csharp\CarDriver\obj\Debug\net5.0\CarDriver.dll
+C:\Users\curtw\workspace\csharp\CarDriver\obj\Debug\net5.0\ref\CarDriver.dll
+C:\Users\curtw\workspace\csharp\CarDriver\obj\Debug\net5.0\CarDriver.pdb
+C:\Users\curtw\workspace\csharp\CarDriver\obj\Debug\net5.0\CarDriver.genruntimeconfig.cache

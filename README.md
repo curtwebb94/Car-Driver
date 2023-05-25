@@ -1,8 +1,8 @@
-#Car Driver Console Game
+Car Driver Console Game
 
 Car Driver Console Game is a simple console-based game where players control a car and earn points by accelerating or braking. The objective is to achieve the highest score possible before choosing to quit.
 
-#How to Play
+How to Play
 Run the game by executing the compiled executable or running the program in an IDE that supports C#.
 
 Once the game starts, you will see the title "Car Drive Game" displayed on the console.
@@ -17,21 +17,17 @@ If you want to quit the game at any time, press 'Q'. This will end the game and 
 
 The game continues until you choose to quit by pressing 'Q'.
 
-#Game Features
-
+Game Features
 Simple and intuitive controls: Accelerate with 'A', brake with 'B', and quit with 'Q'.
 Real-time score tracking: The game keeps track of your score as you accelerate or brake.
 Smooth gameplay: A short delay is introduced between each input to make the game playable.
 Game Over screen: When you choose to quit, the game displays a "Game Over" message along with your final score.
-
-#Development
-
+Development
 The Car Driver Console Game is developed using C# programming language. It demonstrates basic console input handling, switch-case statements, and game loop implementation.
 
 To modify or enhance the game, you can refer to the source code in the Program.cs file. Feel free to customize the game mechanics, add additional features, or improve the user experience as per your requirements.
 
-#System Requirements
-
+System Requirements
 .NET Core 3.1 or later.
 License
 This project is licensed under the MIT License.
